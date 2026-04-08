@@ -3,7 +3,7 @@
 <h2>👨‍💻 Professional Projects:</h2>
 
 - <b>Stagged a SQL Database feeding PowerBi Dashboards</b>
-  - [Praciting DS & Algos in Python](https://github.com/Incredibleice/data-pipeline-power-bi)
+  - [Data Pipeline for Power BI](https://github.com/Incredibleice/data-pipeline-power-bi)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -21,7 +21,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Splunk Setup, securing and hardening your instance</b>
-  - [Praciting DS & Algos in Python](https://github.com/Incredibleice/data-pipeline-power-bi)
+  - [Data Pipeline for Power BI](https://github.com/Incredibleice/data-pipeline-power-bi)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -39,7 +39,7 @@
 <h2>Certifications:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Incredibleice/data-pipeline-power-bi)
+  - [Data Pipeline for Power BI](https://github.com/Incredibleice/data-pipeline-power-bi)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
