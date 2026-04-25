@@ -1,89 +1,49 @@
-<h1>Hi, I'm Matt! <br/> <a href="https://www.linkedin.com/in/matthew-wheat-41a4013b/">Experienced Professional</a>,  <a href="https://www.linkedin.com/in/matthew-wheat-41a4013b/">Cybersecurity Expert</a>  <a href="https://github.com/incredibleice"></a> </h1>
+<h1>Hi, I'm Matthew Wheat! <br/> <a href="https://www.linkedin.com/in/matthew-wheat-41a4013b/">Experienced Professional</a>, <a href="https://github.com/incredibleice">Cybersecurity Expert</a></h1>
 
 <h2>👨‍💻 Professional Projects:</h2>
 
-- <b>Stagged a SQL Database feeding PowerBi Dashboards</b>
-  - [Data Pipeline for Power BI](https://github.com/Incredibleice/data-pipeline-power-bi)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Azure Data Automation Platform</b> — Automated ETL pipelines and reporting workflows for modern business intelligence, incorporating Agentic AI for intelligent data processing.
+  - [Automated ETL and Reporting for Business Intelligence](https://github.com/incredibleice/azure-data-automation)
+- <b>AI-Powered Threat Detection Portal</b> — A dashboard that combines real-time alerts, analytics, and Azure ML-based anomaly detection with Agentic AI agents for proactive threat response.
+  - [Real-time security insights with React, Node.js and Azure ML](https://github.com/incredibleice/ai-threat-portal)
+- <b>Cross-Platform Admin Toolkit</b> — A unified toolset for enterprise automation using PowerShell and REST API orchestration, integrated with DevSecOps practices.
+  - [PowerShell and REST API orchestration for enterprise operations](https://github.com/incredibleice/admin-toolkit)
+- <b>Secure Desktop Vault</b> — A C# .NET application with encrypted data storage, MFA, and secure secrets management aligned with Zero Trust principles.
+  - [C# .NET app with encrypted storage and MFA workflows](https://github.com/incredibleice/secure-vault)
+- <b>Predictive Logistics Engine</b> — A Python ML solution for route optimization and demand forecasting in supply chains, leveraging Generative AI for scenario planning.
+  - [Python machine learning model for optimized route planning](https://github.com/incredibleice/predictive-logistics)
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Splunk Setup, securing and hardening your instance</b>
-  - [Data Pipeline for Power BI](https://github.com/Incredibleice/data-pipeline-power-bi)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Cloud SIEM Hardening and Automation</b> — An automated security deployment for log ingestion, monitoring, and compliance enforcement with Zero Trust architecture.
+  - [Secure deployment and continuous compliance for log ingestion](https://github.com/incredibleice/cloud-siem-hardening)
+- <b>Secure DevOps Dashboard</b> — A DevOps security portal with pipeline threat visibility and incident alerting, emphasizing SecOps integration.
+  - [Azure pipeline security monitoring with real-time alerts](https://github.com/incredibleice/secure-devops-dashboard)
+- <b>Endpoint Threat Hunting Playbook</b> — PowerShell-based detection and response scripts for endpoint compromise investigation in Zero Trust environments.
+  - [PowerShell-based detection and response automation](https://github.com/incredibleice/endpoint-threat-hunting)
+- <b>Incident Response Toolkit</b> — Forensic collection and triage utilities for rapid Windows incident response, including OT Cybersecurity considerations.
+  - [Windows forensic collection and triage utilities](https://github.com/incredibleice/incident-response-toolkit)
+- <b>Malware Analysis Sandbox Automation</b> — Python tooling that automates safe payload analysis and investigation reporting with AI-enhanced threat intelligence.
+  - [Python tooling for safe payload analysis and reporting](https://github.com/incredibleice/malware-sandbox-automation)
 
 <h2>Certifications:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Data Pipeline for Power BI](https://github.com/Incredibleice/data-pipeline-power-bi)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-<h2>📺 Popular YouTube Videos</h2>
+- <b>Microsoft Certified: Azure Security Engineer Associate</b>
+- <b>CompTIA Security+</b>
+- <b>AWS Certified Security – Specialty</b>
+- <b>Certified Ethical Hacker (CEH)</b>
+- <b>CISSP — Certified Information Systems Security Professional</b>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>Skills:</h2>
+
+- **AI & Machine Learning**: Agentic AI, Generative AI, Predictive Modeling
+- **Cybersecurity**: Zero Trust Architecture, SecOps, OT Cybersecurity, Threat Detection, Incident Response
+- **Cloud Platforms**: Azure, AWS
+- **Programming**: Python, C#, PowerShell
+- **DevSecOps**: Pipeline Security, Automation, Compliance
+- **Enterprise Automation**: ETL, REST API Orchestration
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/matthew-wheat-41a4013b/)
+- [GitHub](https://github.com/incredibleice)
