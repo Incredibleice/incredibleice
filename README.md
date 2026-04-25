@@ -28,11 +28,11 @@
 
 <h2>Certifications:</h2>
 
-- <b>Microsoft Certified: Azure Security Engineer Associate</b>
 - <b>CompTIA Security+</b>
-- <b>AWS Certified Security – Specialty</b>
-- <b>Certified Ethical Hacker (CEH)</b>
 - <b>CISSP — Certified Information Systems Security Professional</b>
+- <b>CCSP</b>
+- <b>Pentest+</b>
+- <b>ITIL</b>
 
 <h2>Skills:</h2>
 
