@@ -29,10 +29,10 @@
 <h2>Certifications:</h2>
 
 - <b>CompTIA Security+</b>
-- <b>CISSP — Certified Information Systems Security Professional</b>
-- <b>CCSP</b>
-- <b>Pentest+</b>
-- <b>ITIL</b>
+- <b>Certified Information Systems Security Professional</b>
+- <b>Certified Cloud Security Professional</b>
+- <b>CompTIA PenTest+</b>
+- <b>Information Technology Infrastructure Library</b>
 
 <h2>Skills:</h2>
 
